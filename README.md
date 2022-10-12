@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmanMishra04
 - 👀 I’m interested in Coding and Open Source Contributions.
-- 🌱 I’m currently learning C++/phython/HTML/PHP/java and many more.
+- 🌱 I’m currently learning C++/python/HTML/PHP/java and many more.
 - 💞️ I’m looking to collaborate with different types of companies and communities.
 - 📫 How to reach me, Here's my E-mail ID - amanmishra0411@gmail.com
 - ✨Nice to see you guys. Have a great day! 🎊
