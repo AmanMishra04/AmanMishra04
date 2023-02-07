@@ -15,5 +15,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanMishra04&layout=compact)](https://github.com/AmanMishra04/github-readme-stats)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanMishra04&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanMishra04&theme=tokyonight)
 
